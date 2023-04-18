@@ -1,0 +1,7 @@
+#include<iostream>
+
+libreria
+
+
+using namespace std;
+Va siempre.
